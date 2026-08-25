@@ -138,9 +138,7 @@
 <img src="https://img.shields.io/badge/-lavender?style=for-the-badge&color=B39DDB&label=%F0%9F%93%AB%20Let's%20Connect&labelColor=D1C4E9" alt="section divider"/>
 <br/><br/>
 
-<a href="mailto:dsiddharth550@gmail.com"><img src="https://img.shields.io/badge/Email-B39DDB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-B39DDB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:dsiddharth550@gmail.com"><img src="https://img.shields.io/badge/Email-B39DDB?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/siddharth-deshmukh2028"><img src="https://img.shields.io/badge/LinkedIn-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/siddharthdeshmukh25"><img src="https://img.shields.io/badge/GitHub-B39DDB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
